@@ -19,7 +19,7 @@
 
         <!-- please do not update these versions
              they are not in spring boot  -->
-        <commons-text.version>1.9</commons-text.version>
+        <commons-text.version>1.10.0</commons-text.version>
         <json.version>20180813</json.version> <!-- do not update -->
         <java-web-socket.version>1.5.1</java-web-socket.version>
         <reflections.version>0.9.11</reflections.version> <!-- do not update -->
